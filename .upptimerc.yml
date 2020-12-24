@@ -12,7 +12,7 @@ sites:
     url: https://darius.lol/
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
+  # Add your custom domain below, or remove the next line if you don't have a domain 
   cname: status.darius.lol
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
@@ -25,10 +25,15 @@ status-website:
       href: /
     - title: CDN
       href: https://i.darius.lol
+      icon: https://i.darius.lol/static/icons/cdn.svg
     - title: Imgen
       href: https://darius.lol
+      icon: https://i.darius.lol/static/icons/imgen.svg
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+i18n:
+  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org).
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
