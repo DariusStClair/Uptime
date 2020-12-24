@@ -25,10 +25,10 @@ status-website:
       href: /
     - title: CDN
       href: https://i.darius.lol
-      icon: https://i.darius.lol/static/icons/cdn.svg
+      icon: https://i.darius.lol/static/icons/cdn.png
     - title: Imgen
       href: https://darius.lol
-      icon: https://i.darius.lol/static/icons/imgen.svg
+      icon: https://i.darius.lol/static/icons/imgen.png
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
