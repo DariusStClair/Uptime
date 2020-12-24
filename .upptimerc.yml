@@ -17,12 +17,16 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Darius' Services Uptime
+  introTitle: "**Darius Services**\n"
+  introMessage: Below is the current status of various services I'm responsible for (excluding Google, duh).
   navbar:
     - title: Status
       href: /
+    - title: CDN
+      href: https://i.darius.lol
+    - title: Imgen
+      href: https://darius.lol
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
