@@ -40,7 +40,7 @@
     "url": "https://darius.lol/",
     "icon": "https://favicons.githubusercontent.com/darius.lol",
     "slug": "imgen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 674,
     "timeMonth": 664,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-08": 0
+    }
   }
 ]
