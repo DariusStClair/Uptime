@@ -40,19 +40,19 @@
     "url": "https://darius.lol/",
     "icon": "https://favicons.githubusercontent.com/darius.lol",
     "slug": "imgen",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 778,
-    "timeDay": 598,
-    "timeWeek": 674,
-    "timeMonth": 664,
-    "timeYear": 778,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "92.77%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.90%",
+    "time": 776,
+    "timeDay": 610,
+    "timeWeek": 667,
+    "timeMonth": 663,
+    "timeYear": 776,
     "dailyMinutesDown": {
-      "2021-03-08": 0
+      "2021-03-08": 104
     }
   }
 ]
