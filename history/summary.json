@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.97%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 85,
-    "timeDay": 66,
+    "timeDay": 79,
     "timeWeek": 84,
     "timeMonth": 85,
     "timeYear": 85,
-    "dailyMinutesDown": {
-      "2021-03-08": 104
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CDN",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/i.darius.lol",
     "slug": "cdn",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.92%",
-    "time": 657,
-    "timeDay": 481,
-    "timeWeek": 611,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 656,
+    "timeDay": 612,
+    "timeWeek": 614,
     "timeMonth": 620,
-    "timeYear": 657,
-    "dailyMinutesDown": {
-      "2021-03-08": 104
-    }
+    "timeYear": 656,
+    "dailyMinutesDown": {}
   },
   {
     "name": "IMGEN",
@@ -45,16 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/darius.lol",
     "slug": "imgen",
     "status": "up",
-    "uptime": "99.92%",
+    "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "99.92%",
-    "time": 757,
-    "timeDay": 573,
-    "timeWeek": 668,
-    "timeMonth": 678,
-    "timeYear": 757,
+    "uptimeYear": "99.93%",
+    "time": 755,
+    "timeDay": 591,
+    "timeWeek": 665,
+    "timeMonth": 675,
+    "timeYear": 755,
     "dailyMinutesDown": {
       "2021-03-08": 104
     }
