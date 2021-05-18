@@ -22,10 +22,10 @@
     "url": "https://i.darius.lol",
     "icon": "https://favicons.githubusercontent.com/i.darius.lol",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 657,
@@ -33,7 +33,9 @@
     "timeWeek": 626,
     "timeMonth": 646,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-18": 1
+    }
   },
   {
     "name": "IMGEN",
@@ -41,18 +43,18 @@
     "icon": "https://favicons.githubusercontent.com/darius.lol",
     "slug": "imgen",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.51%",
+    "uptimeDay": "36.38%",
+    "uptimeWeek": "90.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "99.51%",
     "time": 754,
     "timeDay": 587,
     "timeWeek": 705,
     "timeMonth": 743,
     "timeYear": 754,
     "dailyMinutesDown": {
-      "2021-05-18": 0,
+      "2021-05-18": 916,
       "2021-03-08": 104
     }
   }
