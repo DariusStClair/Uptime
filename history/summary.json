@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 86,
-    "timeDay": 72,
-    "timeWeek": 75,
-    "timeMonth": 83,
-    "timeYear": 86,
-    "dailyMinutesDown": {}
+    "time": 88,
+    "timeDay": 450,
+    "timeWeek": 122,
+    "timeMonth": 95,
+    "timeYear": 88,
+    "dailyMinutesDown": {
+      "2021-06-13": 0
+    }
   },
   {
     "name": "CDN",
@@ -29,8 +31,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.98%",
     "time": 651,
-    "timeDay": 576,
-    "timeWeek": 580,
+    "timeDay": 624,
+    "timeWeek": 585,
     "timeMonth": 614,
     "timeYear": 651,
     "dailyMinutesDown": {
@@ -49,9 +51,9 @@
     "uptimeMonth": "97.81%",
     "uptimeYear": "99.57%",
     "time": 759,
-    "timeDay": 574,
-    "timeWeek": 648,
-    "timeMonth": 769,
+    "timeDay": 711,
+    "timeWeek": 656,
+    "timeMonth": 767,
     "timeYear": 759,
     "dailyMinutesDown": {
       "2021-05-18": 957,
