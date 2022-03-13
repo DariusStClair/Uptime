@@ -24,10 +24,10 @@
     "url": "https://i.darius.lol",
     "icon": "https://favicons.githubusercontent.com/i.darius.lol",
     "slug": "cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 636,
@@ -36,6 +36,7 @@
     "timeMonth": 622,
     "timeYear": 630,
     "dailyMinutesDown": {
+      "2022-03-13": 1,
       "2021-05-18": 42
     }
   },
@@ -44,7 +45,7 @@
     "url": "https://darius.lol/",
     "icon": "https://favicons.githubusercontent.com/darius.lol",
     "slug": "imgen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +57,7 @@
     "timeMonth": 728,
     "timeYear": 720,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2021-05-18": 957
     }
   }
