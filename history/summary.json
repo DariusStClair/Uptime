@@ -4,19 +4,18 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 110,
-    "timeDay": 331,
-    "timeWeek": 137,
-    "timeMonth": 110,
+    "timeDay": 279,
+    "timeWeek": 145,
+    "timeMonth": 112,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2023-09-13": 14,
       "2023-07-14": 17
     }
   },
@@ -26,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.darius.lol.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "47.68%",
+    "uptime": "47.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-13": 924,
+      "2023-09-14": 26,
+      "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -400,8 +400,7 @@
       "2022-09-18": 1440,
       "2022-09-17": 1440,
       "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-15": 1440
     }
   },
   {
@@ -415,11 +414,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.29%",
     "uptimeYear": "86.95%",
-    "time": 1088,
-    "timeDay": 892,
-    "timeWeek": 1233,
-    "timeMonth": 1325,
-    "timeYear": 1176,
+    "time": 1090,
+    "timeDay": 1972,
+    "timeWeek": 1302,
+    "timeMonth": 1326,
+    "timeYear": 1179,
     "dailyMinutesDown": {
       "2023-08-16": 310,
       "2023-07-18": 201,
