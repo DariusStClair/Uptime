@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 174,
-    "timeWeek": 147,
-    "timeMonth": 111,
-    "timeYear": 109,
-    "dailyMinutesDown": {}
+    "timeDay": 268,
+    "timeWeek": 174,
+    "timeMonth": 119,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2025-05-11": 0
+    }
   },
   {
     "name": "CDN",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.darius.lol.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "29.63%",
+    "uptime": "29.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-11": 3,
+      "2025-05-11": 38,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
