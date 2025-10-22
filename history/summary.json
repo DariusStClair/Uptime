@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1184,
+      "2025-10-22": 1192,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -408,19 +408,19 @@
     "url": "https://darius.lol/",
     "icon": "https://icons.duckduckgo.com/ip3/darius.lol.ico",
     "slug": "imgen",
-    "status": "down",
+    "status": "up",
     "uptime": "93.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1553,
-    "timeDay": 1926,
-    "timeWeek": 1779,
-    "timeMonth": 1656,
-    "timeYear": 1609,
+    "time": 1552,
+    "timeDay": 1866,
+    "timeWeek": 1782,
+    "timeMonth": 1661,
+    "timeYear": 1607,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 7
     }
   }
 ]
