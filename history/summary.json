@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 146,
-    "timeDay": 109,
-    "timeWeek": 97,
-    "timeMonth": 122,
+    "time": 145,
+    "timeDay": 108,
+    "timeWeek": 101,
+    "timeMonth": 120,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2026-04-12": 33,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.darius.lol.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "24.19%",
+    "uptime": "24.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -39,7 +39,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-05": 16,
+      "2026-05-06": 15,
+      "2026-05-05": 1440,
       "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
@@ -402,8 +403,7 @@
       "2025-05-10": 1440,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
-      "2025-05-07": 1440,
-      "2025-05-06": 1440
+      "2025-05-07": 1440
     }
   },
   {
@@ -417,11 +417,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1511,
-    "timeDay": 798,
-    "timeWeek": 787,
-    "timeMonth": 881,
-    "timeYear": 1471,
+    "time": 1509,
+    "timeDay": 950,
+    "timeWeek": 806,
+    "timeMonth": 883,
+    "timeYear": 1470,
     "dailyMinutesDown": {}
   }
 ]
