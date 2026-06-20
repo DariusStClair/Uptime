@@ -4,21 +4,22 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 142,
-    "timeDay": 57,
-    "timeWeek": 69,
-    "timeMonth": 73,
-    "timeYear": 148,
+    "time": 143,
+    "timeDay": 284,
+    "timeWeek": 124,
+    "timeMonth": 87,
+    "timeYear": 149,
     "dailyMinutesDown": {
       "2025-12-08": 20,
       "2025-12-23": 18,
-      "2026-04-12": 33
+      "2026-04-12": 33,
+      "2026-06-20": 0
     }
   },
   {
@@ -27,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.darius.lol.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "23.64%",
+    "uptime": "23.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 24,
+      "2026-06-20": 472,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
