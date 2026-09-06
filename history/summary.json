@@ -6,14 +6,14 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 137,
-    "timeDay": 203,
-    "timeWeek": 129,
-    "timeMonth": 129,
+    "timeDay": 171,
+    "timeWeek": 122,
+    "timeMonth": 128,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-12-08": 20,
@@ -23,8 +23,7 @@
       "2026-07-10": 9,
       "2026-07-09": 19,
       "2026-08-09": 30,
-      "2026-08-22": 20,
-      "2026-09-05": 7
+      "2026-08-22": 20
     }
   },
   {
@@ -33,7 +32,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.darius.lol.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "22.76%",
+    "uptime": "22.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -44,7 +43,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-05": 835,
+      "2026-09-06": 4,
+      "2026-09-05": 1440,
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
@@ -407,8 +407,7 @@
       "2025-09-10": 1440,
       "2025-09-09": 1440,
       "2025-09-08": 1440,
-      "2025-09-07": 1440,
-      "2025-09-06": 1440
+      "2025-09-07": 1440
     }
   },
   {
@@ -423,10 +422,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1398,
-    "timeDay": 1612,
-    "timeWeek": 1664,
-    "timeMonth": 1436,
-    "timeYear": 1337,
+    "timeDay": 2081,
+    "timeWeek": 1716,
+    "timeMonth": 1448,
+    "timeYear": 1339,
     "dailyMinutesDown": {}
   }
 ]
