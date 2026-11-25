@@ -6,12 +6,12 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.95%",
     "time": 158,
-    "timeDay": 264,
+    "timeDay": 251,
     "timeWeek": 254,
     "timeMonth": 217,
     "timeYear": 162,
@@ -26,7 +26,7 @@
       "2026-08-22": 20,
       "2026-10-09": 20,
       "2026-11-22": 16,
-      "2026-11-24": 23
+      "2026-11-24": 15
     }
   },
   {
@@ -35,7 +35,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/i.darius.lol.ico",
     "slug": "cdn",
     "status": "down",
-    "uptime": "21.92%",
+    "uptime": "21.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -46,7 +46,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-11-24": 111,
+      "2026-11-25": 2,
+      "2026-11-24": 1440,
       "2026-11-23": 1440,
       "2026-11-22": 1440,
       "2026-11-21": 1440,
@@ -409,8 +410,7 @@
       "2025-11-29": 1440,
       "2025-11-28": 1440,
       "2025-11-27": 1440,
-      "2025-11-26": 1440,
-      "2025-11-25": 1440
+      "2025-11-26": 1440
     }
   },
   {
@@ -424,11 +424,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1427,
-    "timeDay": 1982,
-    "timeWeek": 1882,
-    "timeMonth": 1770,
-    "timeYear": 1336,
+    "time": 1428,
+    "timeDay": 2026,
+    "timeWeek": 1895,
+    "timeMonth": 1801,
+    "timeYear": 1337,
     "dailyMinutesDown": {}
   }
 ]
